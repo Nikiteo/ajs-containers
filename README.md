@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/d76ptnmiew7ih0ag?svg=true)](https://ci.appveyor.com/project/Nikiteo/ajs-containers)
+[![Build status](https://ci.appveyor.com/api/projects/status/d76ptnmiew7ih0ag?svg=true)](https://ci.appveyor.com/project/Nikiteo/ajs-containers-set)
 
 # Домашнее задание к лекции «Контейнеры»
 
