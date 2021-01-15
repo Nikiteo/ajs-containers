@@ -4,9 +4,11 @@ export default class Team {
   }
 
   add(characer) {
-    if (this.members.has(characer)) {
-      throw new Error('The character has already been added');
-    }
+    this.members.forEach((item) => {
+      if (JSON.stringify(item) === JSON.stringify(characer)) {
+        throw new Error('The character has already been added');
+      }
+    });
     this.members.add(characer);
   }
 
