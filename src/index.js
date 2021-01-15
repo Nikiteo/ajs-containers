@@ -1,2 +1,2 @@
 // entry point for Webpack
-import './set/team.js';
+import './team/team.js';
